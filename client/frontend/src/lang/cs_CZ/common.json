@@ -48,5 +48,7 @@
       "List": "Seznam"
     }
   },
-  "NoResults": "Žádné výsledky"
+  "NoResults": "Žádné výsledky",
+  "Yes": "Yes",
+  "No": "No"
 }
