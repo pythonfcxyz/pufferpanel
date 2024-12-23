@@ -1,5 +1,5 @@
 {
-  "Users": "Usuários",
+  "Users": "Utilizadores",
   "Add": "Adicionar",
   "Create": "Create User",
   "OldPassword": "Palavra-passe antiga",
@@ -17,7 +17,7 @@
   "Logout": "Sair",
   "Register": "Registar-se",
   "RegisterLink": "Ou regista-te aqui",
-  "Username": "Nome de usuário",
+  "Username": "Nome de utilizador",
   "Password": "Palavra-passe",
   "Email": "Email",
   "UpdateDetails": "Update User Details",
